@@ -70,8 +70,6 @@ const Calculadora = () => {
         setOperador();
         setNumAntigo();
     }
-
-
     return (
         <div className="container">
             <Box m={5} />
