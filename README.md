@@ -18,5 +18,5 @@
 
 ## 📝 Maiores aprendizados
 
-* Deloying de projeto com Reactjs
+* Deploy de aplicação Web com ReactJs
 * Utilizar Hooks
