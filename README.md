@@ -6,7 +6,7 @@
 
 <br>
 
-> Teste você mesmo: <a href="https://superlative-puppy-307ea3.netlify.app/" target="_blank"> Cronômetro </a>
+> Teste você mesmo: <a href="https://superlative-puppy-307ea3.netlify.app/" target="_blank"> Calculadora </a>
 
 ## 🚀 Tecnologias usadas:
 
