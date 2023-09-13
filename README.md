@@ -2,7 +2,7 @@
 
 <br>
 
-
+[cap-calculadora.webm](https://github.com/RonaldoFidelis/Calculadora_ReactJs/assets/92171641/666baf22-69f5-4a4b-ae31-087b1882f845)
 
 <br>
 
